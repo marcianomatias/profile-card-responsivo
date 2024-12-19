@@ -4,7 +4,7 @@ Este projeto é um cartão de perfil desenvolvido com HTML e CSS, projetado para
 
 ## Visualização
 
-![Imagem do Cartão de Perfil](/home/mms/Área de trabalho/Workspace/Card/cardprof.png)
+![Imagem do Cartão de Perfil](cardprof.png)
 
 ## Funcionalidades
 
