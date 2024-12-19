@@ -4,7 +4,7 @@ Este projeto é um cartão de perfil desenvolvido com HTML e CSS, projetado para
 
 ## Visualização
 
-![Imagem do Cartão de Perfil](caminho/para/imagem.png)
+![Imagem do Cartão de Perfil](/home/mms/Área de trabalho/Workspace/Card/cardprof.png)
 
 ## Funcionalidades
 
@@ -55,4 +55,4 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` p
 
 ---
 
-**Nota**: Este é um exemplo de README para um projeto de cartão de perfil responsivo. Certifique-se de ajustar as informações conforme as especificidades do seu projeto, incluindo capturas de tela reais, links e detalhes relevantes. 
+**Nota**: Este é um exemplo de README para um projeto de cartão de perfil responsivo. Certifique-se de ajustar as informações conforme as especificidades do seu projeto, incluindo capturas de tela reais, links e detalhes relevantes.
